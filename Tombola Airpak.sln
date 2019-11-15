@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tombola Airpak", "Tombola Airpak\Tombola Airpak.csproj", "{E5EC33B6-E234-4B40-8292-9B88F0FA9566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EC33B6-E234-4B40-8292-9B88F0FA9566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EC33B6-E234-4B40-8292-9B88F0FA9566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EC33B6-E234-4B40-8292-9B88F0FA9566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EC33B6-E234-4B40-8292-9B88F0FA9566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0AE9DA-DA94-4651-A749-3EE638A64AF8}
+	EndGlobalSection
+EndGlobal
